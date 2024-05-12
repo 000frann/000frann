@@ -18,10 +18,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="LeeGod's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LeeGodSRc&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="000frann's Github Stats" src="https://github-readme-stats.vercel.app/api?username=000frann&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeeGodSRC&show_icons=true&locale=en&layout=compact&theme=algolia" alt="LeeGod" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=000frann&show_icons=true&locale=en&layout=compact&theme=algolia" alt="000frann" height="192px"/>
   <br/>
   </p>
 </details>
@@ -30,7 +30,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/LeeGodSRC"><img alt="LeeGod's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=LeeGodSRC&custom_title=LeeGod's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/000frann"><img alt="000frann's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=000frann&custom_title=000frann's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
