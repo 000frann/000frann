@@ -37,11 +37,6 @@
 
 <br/>
 
-## Popular Projects
-<a href="https://github.com/FairyProject/fairy">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FairyProject&repo=fairy&theme=onedark" />
-</a>  
 
 ----------------------------------------------------------------------
 Credit: [aastha12](https://github.com/aastha12)
