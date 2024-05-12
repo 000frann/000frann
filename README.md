@@ -1,16 +1,52 @@
-### Hi there 👋
+<h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
 
-<!--
-**000frann/000frann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+Francisco+GitHub+Profile!;I'm+a+Software+Developer;" /></a>
+</p>
 
-Here are some ideas to get you started:
+## Who am I?
+- 👋 Hi, I’m Francisco Colom.
+- 💼 I'm the Website Developer & Software Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  <a href="https://kotlinlang.org/" target="_blank"> 
+    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-777BB4?style=for-the-badge&logo=kotlin&logoColor=white">
+  </a>
+
+<h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
+
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="LeeGod's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LeeGodSRc&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeeGodSRC&show_icons=true&locale=en&layout=compact&theme=algolia" alt="LeeGod" height="192px"/>
+  <br/>
+  </p>
+</details>
+
+
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/LeeGodSRC"><img alt="LeeGod's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=LeeGodSRC&custom_title=LeeGod's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+</details>
+
+<br/>
+
+## Popular Projects
+<a href="https://github.com/FairyProject/fairy">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FairyProject&repo=fairy&theme=onedark" />
+</a>  
+
+----------------------------------------------------------------------
+Credit: [aastha12](https://github.com/aastha12)
+
+Last Edited on: 08/07/2022
