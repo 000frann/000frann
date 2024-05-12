@@ -11,9 +11,6 @@
 - 💼 I'm the Website Developer & Software Developer.
 
 
-  <a href="https://kotlinlang.org/" target="_blank"> 
-    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-777BB4?style=for-the-badge&logo=kotlin&logoColor=white">
-  </a>
 
 <h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
 
